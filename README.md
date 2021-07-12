@@ -13,3 +13,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Publications:</h3>
+<p align="left">
+<a href="https://scholar.google.nl/citations?user=IrJ5c3oAAAAJ&hl=fr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="40" /></a>
+</p>
