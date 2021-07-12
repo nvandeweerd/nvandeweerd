@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/nvandew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nvandew" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nathanvandeweerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanvandeweerd" height="30" width="40" /></a>
+ <a href="https://www.researchgate.net/profile/Nathan-Vandeweerd" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/64px-ResearchGate_icon_SVG.svg.png" alt="ResearchGate" height="32" width="32" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
