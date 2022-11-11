@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nate Vandeweerd</h1>
-<h3 align="center">PhD Student at the Centre for English Corpus Linguistics at the UCLouvain and the Vrije Universiteit Brussel</h3>
+<h3 align="center">Assistant professor in the Department of Language and Communication at Radboud University Nijmegen</h3>
 
 - 🔭 I’m currently working on **Lexicogrammatical Complexity Across Modes in L2 French**
 
-- 📫 How to reach me **nathan.vandeweerd@uclouvain.be**
+- 📫 How to reach me **nathan.vandeweerd@ru.nl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
